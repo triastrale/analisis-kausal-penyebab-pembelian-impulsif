@@ -1,2 +1,2 @@
 # causal-discovery-notears
-Source Code Causal Discovery using NOTEARS Algorithm for Undergraduate Thesis
+Source Code Causal Discovery using NOTEARS Algorithm and Causal Inference using DoWhy for Undergraduate Thesis.
